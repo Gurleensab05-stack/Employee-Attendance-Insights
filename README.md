@@ -20,7 +20,8 @@ This dashboard provides a detailed view of employee attendance and presence tren
 - Filterable by time range and employee group
 
 ## 📁 File
-- `Employee Attendance Insights.pbix` — Main Power BI report file
+- `Employee Attendance Insights.pbix` — Main Power BI report file  
+➡️ [Click here to view/download](./Employee%20Attendance%20Insights.pbix)
 
 ## 🔗 Connect With Me
 Let’s connect and collaborate on data storytelling and analytics
