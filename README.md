@@ -10,7 +10,8 @@ This dashboard provides a detailed view of employee attendance and presence tren
 
 ## 🛠️ Tools & Technologies
 - **Power BI** for interactive visualizations
-- **Data Cleaning** and **DAX** for calculations and modeling
+- **DAX** – for advanced measures and calculations
+- **Data Cleaning & Modeling** – to prepare data for visualization
 
 ## 📈 Key Insights
 - Visual breakdown of employee presence by department and day
@@ -19,11 +20,9 @@ This dashboard provides a detailed view of employee attendance and presence tren
 - Filterable by time range and employee group
 
 ## 📁 File
-
-- Employee Attendance Insights.pbix — Power BI file with full report
+- `Employee Attendance Insights.pbix` — Main Power BI report file
 
 ## 🔗 Connect With Me
-
-Let’s connect and collaborate on data storytelling and analytics.  
+Let’s connect and collaborate on data storytelling and analytics
 [LinkedIn Profile](https://www.linkedin.com/in/gurleen-sabharwal)
 
